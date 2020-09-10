@@ -224,7 +224,7 @@ def main():
                 print(pyfiglet.figlet_format("BETTER LUCK NEXT TIME : ("))
                 break
         except ValueError:
-            print('\nAn error has been accrued, pls enter a valid letter')
+            print('\nAn error has been occurred, pls enter a valid letter')
 
 
 if __name__ == '__main__':
